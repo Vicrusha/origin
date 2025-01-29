@@ -1,6 +1,6 @@
 tmp/
-*.old ←
-*.backup ←
+*_.old ←
+*_.backup ←
 1.2. Site For Import/Thumbs.db ← 
 1.2. Site For Import/.DS_Store ←
 
